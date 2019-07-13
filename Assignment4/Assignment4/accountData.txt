@@ -1,0 +1,54 @@
+{
+"Username": "Alice_a",
+"Client Name": "Ayana Dewoody",
+"Password": "otb",
+"Balance": "500.000000"
+},
+{
+"Username": "Ashe_5",
+"Client Name": "Ronda Adamson",
+"Password": "qsz",
+"Balance": "500.000000"
+},
+{
+"Username": "Bjergsen",
+"Client Name": "Søren Bjerg",
+"Password": "ez3",
+"Balance": "500.000000"
+},
+{
+"Username": "Caitlyn_",
+"Client Name": "Florene Eye",
+"Password": "P9L",
+"Balance": "500.000000"
+},
+{
+"Username": "Faker",
+"Client Name": "Lee Sang-hyeok",
+"Password": "ly9",
+"Balance": "500.000000"
+},
+{
+"Username": "Jones23",
+"Client Name": "Rosy Brazier",
+"Password": "Zf1",
+"Balance": "500.000000"
+},
+{
+"Username": "Patrick_98",
+"Client Name": "Beth Kruse",
+"Password": "F7s",
+"Balance": "500.000000"
+},
+{
+"Username": "Philip99",
+"Client Name": "Aubrey Fallin",
+"Password": "jF0",
+"Balance": "500.000000"
+},
+{
+"Username": "Rodriguez0",
+"Client Name": "Vanita Shellenberger",
+"Password": "Uql",
+"Balance": "500.000000"
+},
